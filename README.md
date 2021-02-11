@@ -7,3 +7,5 @@ Create a file called `emails.txt` at the root of the project and add one email p
 ```shell
 $ python main.py
 ```
+
+It updates the database at every run.
