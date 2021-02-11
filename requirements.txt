@@ -1,0 +1,5 @@
+peewee
+requests
+pre-commit
+flake8
+hibp-zetsumeishi
